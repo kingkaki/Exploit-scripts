@@ -1,0 +1,55 @@
+> 2018/08/17 21:19:28.218653  length=431 from=0 to=430
+*3\r
+$3\r
+set\r
+$1\r
+1\r
+$403\r
+
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCjFdA5iENqT7mVAv3kopJZi0jtaDbXq2VwX7AM4Gk8wkAgBjnNGuxP0Tt5Sz0sQY1brgP7pmtTCeXUhPS33qK9RWXHNNuAAnns3c5nTtEuKvZtE+5aFDiVvyjDBhvR9YfzQFc+MgCDNedF6Fe+tzSPxDvqk5hGUoqEgwQS0NQNEIN93qN/qEiCXrUMacy6JS6fa2AC99JO+0LdVB0yMPgW2neJZSoJOYdFdJiW4XSn94aUf/mHmZQbT2VxNHv1nEspyhssTaNzDrBAE60hL91Q+CEO2ir2sSZ95xwJXJQJbeD1HyyiAhwg/ajoBafT45Ae5BjY+cH9a8gCpzXu8Tp7 kingkk@ubuntu
+
+
+
+
+\r
+< 2018/08/17 21:19:28.219534  length=5 from=0 to=4
++OK\r
+> 2018/08/17 21:19:28.224435  length=52 from=0 to=51
+*4\r
+$6\r
+config\r
+$3\r
+set\r
+$3\r
+dir\r
+$11\r
+/root/.ssh/\r
+< 2018/08/17 21:19:28.224718  length=5 from=0 to=4
++OK\r
+> 2018/08/17 21:19:28.230449  length=64 from=0 to=63
+*4\r
+$6\r
+config\r
+$3\r
+set\r
+$10\r
+dbfilename\r
+$15\r
+authorized_keys\r
+< 2018/08/17 21:19:28.230743  length=5 from=0 to=4
++OK\r
+> 2018/08/17 21:19:28.236946  length=14 from=0 to=13
+*1\r
+$4\r
+save\r
+< 2018/08/17 21:19:28.239675  length=5 from=0 to=4
++OK\r
+> 2018/08/17 21:19:28.245636  length=14 from=0 to=13
+*1\r
+$4\r
+quit\r
+< 2018/08/17 21:19:28.246285  length=5 from=0 to=4
++OK\r
